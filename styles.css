@@ -1,0 +1,36 @@
+*{
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    padding: 2px;
+}
+
+p {
+    text-align: center;
+}
+
+.name {
+    background-color: black;
+    color: #ffffff;
+    padding: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    box-shadow: 0 2px 0 0 black;
+}
+
+.list {
+    text-align: center;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.about-myself {
+    text-decoration: none;
+}
